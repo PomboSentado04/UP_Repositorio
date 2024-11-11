@@ -99,4 +99,6 @@ int main()
     }
 
     printf("\nA conta total de seus pedidos eh de R$%.2f.\n", conta_total);
+    
+    return 0;
 }
